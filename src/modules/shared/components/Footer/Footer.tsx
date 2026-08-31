@@ -31,7 +31,8 @@ export const Footer = () => {
           </li>
           <li className={styles.footer__item}>
             <a
-              href="/#/contacts"
+              href="https://github.com/Skoulskiy/"
+              target="_blank"
               rel="noreferrer"
               className={styles.footer__link}
             >
@@ -40,7 +41,8 @@ export const Footer = () => {
           </li>
           <li className={styles.footer__item}>
             <a
-              href="/#/rights"
+              href="https://github.com/Skoulskiy/ts_react_phone_catalog/blob/main/README.md"
+              target='_blank'
               rel="noreferrer"
               className={styles.footer__link}
             >
