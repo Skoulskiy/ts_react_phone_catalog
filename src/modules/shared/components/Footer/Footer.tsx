@@ -21,7 +21,7 @@ export const Footer = () => {
         <ul className={styles.footer__links}>
           <li className={styles.footer__item}>
             <a
-              href="https://github.com/skoulskiy/react_phone-catalog"
+              href="https://github.com/Skoulskiy/ts_react_phone_catalog"
               target="_blank"
               rel="noreferrer"
               className={styles.footer__link}

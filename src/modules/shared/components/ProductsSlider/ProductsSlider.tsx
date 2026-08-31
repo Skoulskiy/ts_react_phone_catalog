@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Product } from '../../../shared/types/Product';
+import { Product } from '../../types/Product';
 import { ProductCard } from '../ProductCard/ProductCard';
 // eslint-disable-next-line max-len
 import { ProductCardSkeleton } from '../Skeletons/ProductCardSkeleton/ProductCardSkeleton';
