@@ -56,7 +56,7 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Skoulskiy/landing_page
+   git clone https://github.com/Skoulskiy/ts_react_phone_catalog
    ```
 2. **Install dependencies:**
    ```bash
